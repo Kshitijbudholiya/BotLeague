@@ -93,7 +93,7 @@ BotLeague creates a unified national ecosystem where:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/BotLeague.git
+git clone https://github.com/Kshitijbudholiya/BotLeague.git
 cd BotLeague
 ```
 
