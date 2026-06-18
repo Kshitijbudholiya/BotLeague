@@ -101,12 +101,6 @@ cd BotLeague
 
 ## Frontend Setup
 
-Return to project root:
-
-```bash
-cd ..
-```
-
 Install packages:
 
 ```bash
