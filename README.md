@@ -1,6 +1,6 @@
 # BotLeague
 
-> ⚠️ **Work in Progress** — BotLeague is currently under active development. Features, APIs, and UI components may change without notice. Not production-ready.
+> **Note: As per the project requirements, the backend has been removed. However, due to time constraints, some API integrations could not be fully removed or refactored. As a result, certain features such as login, registration, and other backend-dependent functionalities may not work as expected and can generate errors. Additionally, some console errors may still be present due to the remaining API calls.**
 
 **BotLeague** is India's national robotics competition platform, designed to connect builders, teams, organizers, judges, sponsors, and robotics enthusiasts through a unified digital ecosystem.
 
