@@ -86,13 +86,6 @@ BotLeague creates a unified national ecosystem where:
 * CSS Modules
 * Lucide React Icons
 
-### Backend
-
-* Flask
-* Flask-CORS
-* JWT Authentication
-* REST API Architecture
-
 ---
 
 ## Quick Start
@@ -102,34 +95,6 @@ BotLeague creates a unified national ecosystem where:
 ```bash
 git clone https://github.com/YOUR_USERNAME/BotLeague.git
 cd BotLeague
-```
-
----
-
-## Backend Setup
-
-Navigate to backend:
-
-```bash
-cd backend
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run server:
-
-```bash
-python app.py
-```
-
-Backend runs at:
-
-```text
-http://localhost:5000
 ```
 
 ---

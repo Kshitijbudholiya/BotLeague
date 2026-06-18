@@ -380,17 +380,18 @@
     flex-direction: column;
     align-items: flex-start;
     position: fixed;
-    top: 0;
+    top: 55px;
     right: -280px;
     bottom: 0;
     width: 280px;
     background: var(--bg-surface);
     border-left: 1px solid var(--border);
-    padding: 80px 24px 32px;
+    padding: 20px 24px 32px;
     gap: 8px;
     z-index: 199;
     transition: right 0.3s ease;
     overflow-y: auto;
+    height: fit-content;
   }
 
   .linksOpen {
